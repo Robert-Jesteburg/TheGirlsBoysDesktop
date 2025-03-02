@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="keyword" value="Copyrigh" />
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year by Robert Niemann, Rehkamp 21a; 12266 Jesteburg, Germany.&#10;Diese Software unterliegt der GPL v3 vorbehaltlich jedweder böswilliger Veränderungen, eingeschlossen aber nicht abschließend:&#10;a) Ausspionieren von Gesundheitsdaten (bspw. durch Weiterleiten dieser Informationen oder Auswertung der Daten auf bereitgestellten Servern)&#10;b) Ausspionieren von Beziehungen zwischen Personen oder deren zeitliche Verläufe&#10;c) Irreführung durch Angabe bewusst falscher Daten" />
+    <option name="myName" value="GPL v3" />
+  </copyright>
+</component>
