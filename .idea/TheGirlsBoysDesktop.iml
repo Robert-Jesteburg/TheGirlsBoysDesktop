@@ -11,5 +11,6 @@
     <orderEntry type="library" exported="" name="google.inject.guice" level="project" />
     <orderEntry type="library" exported="" name="assertj.core" level="project" />
     <orderEntry type="library" exported="" name="mockito.all" level="project" />
+    <orderEntry type="library" name="apache.logging.log4j.core" level="project" />
   </component>
 </module>
